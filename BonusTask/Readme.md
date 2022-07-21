@@ -1,0 +1,1 @@
+python captcha.py cap.jpg
